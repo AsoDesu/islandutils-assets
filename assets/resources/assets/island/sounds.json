@@ -24,6 +24,11 @@
       "island:dynaball"
     ]
   },
+  "island.music.rsr": {
+    "sounds": [
+      "island:rsr"
+    ]
+  },
   "island.music.parkour_warrior": {
     "sounds": [
       "island:parkour_warrior"

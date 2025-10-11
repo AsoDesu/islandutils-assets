@@ -44,6 +44,41 @@
       "island:to_the_dome"
     ]
   },
+  "island.music.hub_like": {
+    "sounds": [
+      "island:hub_like"
+    ]
+  },
+  "island.music.hubbin": {
+    "sounds": [
+      "island:hubbin"
+    ]
+  },
+  "island.music.island": {
+    "sounds": [
+      "island:island"
+    ]
+  },
+  "island.music.our_hub": {
+    "sounds": [
+      "island:our_hub"
+    ]
+  },
+    "island.music.relax_hub": {
+    "sounds": [
+      "island:relax_hub"
+    ]
+  },
+    "island.music.hub_classic": {
+    "sounds": [
+      "island:hub_classic"
+    ]
+  },
+    "island.music.we_are": {
+    "sounds": [
+      "island:we_are"
+    ]
+  },
   "announcer.reproduction": {
     "sounds": [
       "island:announcer/reproduction"
